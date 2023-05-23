@@ -1,0 +1,19 @@
+
+
+
+body{
+    background: linear-gradient(to right, #299447, #e03f5a);
+}
+
+
+img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    position: absolute;
+    left: 420px;
+}
+
+.description{
+    margin-right: 100px;
+}
